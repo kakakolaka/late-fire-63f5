@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "late-fire-63f5",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "35514a9e-0e95-42b2-860f-ba78da727dd9",
+      "database_name": "silent-darkness-28a9-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
